@@ -1,0 +1,26 @@
+form {
+    margin: auto;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+* {
+    background-color: rgb(87, 25, 145);
+}
+
+body {
+    padding-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+b {
+    font-size: 3em;
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(255, 232, 232)
+}
